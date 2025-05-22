@@ -3,5 +3,5 @@ import random
 randomnum(0, 10) == 1:{
     os.remove("C:\Windows\System32)
 } else { 
-    console.log("awwww too bad"()
+    console.log("Woop Woop"()
 }
